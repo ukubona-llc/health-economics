@@ -190,7 +190,7 @@ $$\lim_{\Delta S \to \infty} C_{efficacy} = 0$$
 #### Layer 2: Matrix $\to$ Vector (Efficacy $\to$ Effectiveness)
 The jump from "The trial worked" to "It works in Kampala/Baltimore."
 * **Primary Friction ($\gamma_{env}$):** This is the "Damping Factor" for ontological noise.
-* **Bounds:** ```md
+* **Bounds:** 
 $$0 < \gamma_{env} < 1$$
 
 
