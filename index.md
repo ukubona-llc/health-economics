@@ -111,9 +111,9 @@ Confidence does not simply transfer from efficacy to effectiveness; it decays du
 
 When transitioning from one layer to the next, the confidence score $C$ is attenuated by the environmental friction $\gamma$ (e.g., patient adherence, local infrastructure) and the entropy difference $\Delta S$.
 
-```markdown
+     
 $$C_{n+1} = C_n \cdot e^{-\gamma \Delta S}$$
-```
+
 
 In your digital twin portals, this means a 0.95 confidence at the Efficacy (Matrix) layer might collapse mathematically when the engine applies the specific demographic and operational damping factors of the target environment.
 
