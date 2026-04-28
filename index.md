@@ -1008,7 +1008,7 @@ Each one is escalating the complexity. xAI gives you damping equations. Google g
 
 The risk is you walk into that WHO session having internalized $C_{n+1} = C_n \cdot e^{-\gamma \Delta S}$ and the team looks at you like you've lost the plot.
 
-**What actually matters for the pitch**
+**What actually matters for the pitch**      
 
 OpenAI's 10-minute demo script is the most operationally useful thing in that entire document. Specifically this sequence:
 
